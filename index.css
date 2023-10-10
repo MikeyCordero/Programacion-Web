@@ -1,0 +1,25 @@
+body{
+    background-color: brown;
+}
+
+#titulo{
+    color:white;
+}
+
+#img1{
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+#img2{
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
+
+#img3{
+    position: relative;
+    height: 300px;
+    width: 300px;
+}
